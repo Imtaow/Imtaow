@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lathaphon (Call me taow 🎲)
+- 👀 I’m interested in : SA (system analysic or system reliability engineer) , devops , deverloper
+- 🌱 I’m currently learning : DevSecOps , System service , NodeJS , Golang
+- 💞️ I’m looking to collaborate on : ....
+- 📫 How to reach me : 
